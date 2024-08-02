@@ -2,8 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:my_app/Screens/Home.dart';
 import 'package:my_app/Screens/Search.dart';
 import 'package:my_app/Screens/Profile.dart';
+//import 'package:my_app/Login.dart';
 
 void main() {
+  //Login();
   runApp(MyApp());
 }
 
